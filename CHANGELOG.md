@@ -2,7 +2,7 @@
 
 Tutte le modifiche rilevanti apportate al progetto **Excel Extractor** saranno documentate in questo file.
 
-Il formato è basato su [Keep a Changelog](https://keepachangelog.com/it/1.1.0/) e questo progetto aderisce al [Semantic Versioning](https://semver.org/lang/it/).
+Il formato è basato su [Keep a Changelog](https://keepachangelog.com/en/1.1.0/) e questo progetto aderisce al [Semantic Versioning](https://semver.org/lang/it/).
 
 ---
 
