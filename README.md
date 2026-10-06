@@ -4,7 +4,7 @@ Applicazione desktop per Windows per l'estrazione e organizzazione rapida di dat
 
 ## 📥 Download
 Scarica l'ultima versione per Windows:
-👉 **[Scarica EstrattoreExcel_Setup.exe](https://github.com/Alessandro-Rocchi/excel_exctractor_releases/releases/latest/download/EstrattoreExcel_Setup.exe)**
+👉 **[Scarica il setup](https://github.com/Alessandro-Rocchi/excel_exctractor_releases/releases/latest/download/ExcelExtractor_Setup.exe)**
 
 ---
 
