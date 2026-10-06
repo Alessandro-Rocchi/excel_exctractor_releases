@@ -6,6 +6,14 @@ Il formato è basato su [Keep a Changelog](https://keepachangelog.com/en/1.1.0/)
 
 ---
 
+## [0.2.5.1] - 2026-10-06
+
+### 🚀 Aggiunto
+
+#### Bordo all'area di input
+
+---
+
 ## [0.2.5] - 2026-10-06
 
 ### 🚀 Aggiunto
