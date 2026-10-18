@@ -6,6 +6,16 @@ Il formato è basato su [Keep a Changelog](https://keepachangelog.com/en/1.1.0/)
 
 ---
 
+## 🛠️ Correzioni e Miglioramenti (v0.2.6)
+
+### 🐛 Bug Fix
+- **Persistenza File Recenti e Preset in `%APPDATA%`**: risolto un problema per cui, installando l'applicazione nella cartella predefinita `C:\Program Files\Excel Extractor`, Windows impediva la scrittura del file `config.json` locale rendendo impossibile salvare i **File Recenti** e i **Preset di Coordinate**. La configurazione viene ora salvata automaticamente nella cartella utente `%APPDATA%\ExcelExtractor\config.json`.
+
+### 🧪 Manutenzione
+- Isolato il file di configurazione durante l'esecuzione dei test automatizzati (`pytest`) per evitare interferenze con le impostazioni dell'utente.
+
+---
+
 ## [0.2.5.1] - 2026-10-06
 
 ### 🚀 Aggiunto
