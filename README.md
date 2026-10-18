@@ -1,6 +1,6 @@
 # Estrattore Dati Excel
 
-Applicazione desktop per Windows per l'estrazione e organizzazione rapida di dati da matrici Excel. Il tool è stato creato per uso strettamente personale e non supportato per il pubblico.
+Applicazione desktop per Windows per l'estrazione e organizzazione rapida di dati da matrici Excel. Il tool è stato creato per uso strettamente personale e non supportato per il pubblico. Nessun supporto o garanzia fornita.
 
 Puoi leggere il changelog qui: **[Changelog](CHANGELOG.md)**
 
